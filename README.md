@@ -37,9 +37,9 @@ Engenheira de Dados apaixonada por pipelines bem estruturados, Kafka, Delta Lake
 | [Monitoramento de Métricas](https://github.com/seuusuario/monitoramento-kafka) | Ingestão de métricas com Kafka e visualização com Delta Lake |
 
 ---
+### 📊 Ofensiva de Contribuições:
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amanda-FG&theme=default)](https://git.io/streak-stats)
 
 ---
 
