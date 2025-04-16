@@ -8,11 +8,10 @@ Engenheira de Dados apaixonada por pipelines bem estruturados, Kafka, Delta Lake
 
 ### :woman_technologist: Sobre mim
 
-- Engenheira de Dados Júnior  
-- Tech Lead em squad de sustentação  
-- Trabalho com pipelines de dados escaláveis, coleta de APIs e CDC com Kafka  
-- Foco em soluções robustas e sustentáveis em ambientes distribuídos  
-- Apaixonada por transformar dados em decisões
+- Engenheira de Dados  
+- Trabalho com pipelines de dados escaláveis  
+- Foco em soluções robustas e sustentáveis  
+- Apaixonada por transformar dados
 
 ---
 
